@@ -1,13 +1,11 @@
 
 ## Hi there, my name is Maya 👋
 
-💻 Software Engineer | Full Stack Web Developer
+###
 
----
+<h2 align="left">💻 Software Engineer | Full Stack Web Developer<br>🌍 From Syria, Damascus.</h2>
 
-🌍 From Syria.
-
----
+###
 
 I’m passionate about building scalable, user-friendly, and impactful software solutions. With experience across the full stack, I enjoy working on everything from backend systems to sleek front-end interfaces, always aiming to bridge functionality with great user experience.
 
