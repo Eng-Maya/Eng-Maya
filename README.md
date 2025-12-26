@@ -94,7 +94,7 @@ I’m passionate about building scalable, user-friendly, and impactful software 
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mayashakko/" target="_blank">
+  <a href="https://www.linkedin.com/in/maya-shakko" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:mayashakko2001@gmail.com" target="_blank">
